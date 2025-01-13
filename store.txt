@@ -1,0 +1,308 @@
+1
+brian
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\brian.jpg
+6/11/2003
+America
+Other
+bri
+1
+Student
+10
+Maths
+12.123123
+Chemistry
+43.23
+Physics
+67.45
+2
+chris griffin
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\chrisgriffin.jpeg
+28/4/2001
+America
+Male
+chris
+1
+Student
+10
+Maths
+54.23
+Chemistry
+45.23
+Physics
+98.45
+3
+cleveland
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\cleveland.jpg
+18/2/2002
+Africa
+Male
+cle
+1
+Student
+10
+Maths
+56.32
+Chemistry
+34.23
+Physics
+67.45
+4
+meg griffin
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\meggriffin.jpg
+25/5/2003
+America
+Female
+meg
+1
+Student
+10
+Maths
+78.4
+Chemistry
+34.23
+Physics
+67.45
+5
+peter griffin
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\petergriffin.jpg
+10/9/2005
+China
+Male
+peter
+1
+Student
+10
+Maths
+23.32
+Chemistry
+68.34
+Physics
+34.23
+6
+stewie griffin
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\stewie griffin.png
+15/2/2006
+America
+Male
+ste
+1
+Student
+10
+Maths
+12.43
+Chemistry
+34.23
+Physics
+56.34
+7
+Dang Phu Tan
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\chrisgriffin.jpeg
+24/5/2003
+Dong Thap
+Male
+tan
+1
+Student
+12
+Maths
+100.0
+Chemistry
+45.86
+Physics
+100.0
+8
+Le Quoc Khanh
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\Perry.jpg
+29/11/2003
+Binh Duong
+Female
+khanh
+1
+Student
+12
+Maths
+95.76
+Chemistry
+34.0
+Physics
+78.9
+9
+Nguyen Vinh Khang
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\petergriffin.jpg
+1/3/2003
+Binh Duong
+Other
+khang
+1
+Student
+12
+Maths
+90.123
+Chemistry
+12.0
+Physics
+12.34
+10
+Tran Trong Ngoc Ha
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\buford.jpg
+25/7/2003
+Thanh Hoa
+Male
+ha
+1
+Student
+12
+Maths
+76.89
+Chemistry
+34.0
+Physics
+57.09
+11
+Tran Vu Truong Huy
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\dipper.jpg
+14/9/2003
+Ninh Binh
+Female
+huy1
+1
+Student
+12
+Maths
+45.56
+Chemistry
+56.0
+Physics
+34.67
+12
+Nguyen Chi Huy
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\mabel.png
+8/1/2003
+Dong Nai
+Other
+huy2
+1
+Student
+12
+Maths
+60.5
+Chemistry
+78.0
+Physics
+40.6
+13
+Dang Phu Loc
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\Soos.jpg
+16/8/2003
+Phu Yen
+Male
+loc
+1
+Student
+12
+Maths
+60.5
+Chemistry
+78.0
+Physics
+40.6
+14
+Ho Van Vinh
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\waddle.jpg
+30/5/2003
+Vinh Phuc
+Female
+vinh1
+1
+Student
+12
+Maths
+60.5
+Chemistry
+78.0
+Physics
+40.6
+1
+joe
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\joe.jpg
+23/4/1995
+America
+Male
+joe
+1
+Teacher
+10
+Engineering
+Maths
+2
+lois griffin
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\loisgriffin.jpg
+31/12/1996
+America
+Female
+lois
+1
+Teacher
+10
+Bachelor
+Chemistry
+3
+quagmire
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\quagmire.jpg
+14/4/1993
+Mexico
+Male
+quag
+1
+Teacher
+10
+Engineering
+Physics
+4
+Nguyen Dinh Vinh
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\uncle stan.png
+8/9/1999
+Can Tho
+Male
+vinh
+1
+Teacher
+12
+Engineering
+Maths
+5
+Ha Minh Ngoc
+C:/Users/DELL/Documents/NetBeansProjects/ProjectCSE203/Images/defaultimage.jpg
+25/12/1998
+Ca Mau
+Male
+ngoc
+1
+Teacher
+12
+Engineering
+Physics
+6
+Do Dang Thanh Huy
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\ferb.png
+10/2/2000
+Binh Duong
+Male
+huy
+1
+Teacher
+12
+Bachelor
+Chemistry
+7
+dang phu tan
+C:\Users\DELL\Documents\NetBeansProjects\ProjectCSE203\Images\uncle ford.jpg
+26/2/2001
+Dong Thap
+Male
+tan dang
+123
+Teacher
+11
+Engineering
+Maths
